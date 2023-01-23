@@ -1,2 +1,2 @@
-# index.html
+# book club-nomad
 book-club nomad
